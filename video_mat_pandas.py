@@ -1,4 +1,4 @@
-#### Series de Tiempo simples con Matplotlib y Pandas
+#### Análisis de Datos simple con Matplotlib y Pandas
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt

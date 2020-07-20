@@ -1,0 +1,184 @@
+Origen	Destino	Longitud de interestación
+Pantitlán	Zaragoza	1,320
+Zaragoza	Gómez Farías	762
+Gómez Farías	Boulevard Puerto Aéreo	611
+Boulevard Puerto Aéreo	Balbuena	595
+Balbuena	Moctezuma	703
+Moctezuma	San Lázaro	478
+San Lázaro	Candelaria	866
+Candelaria	Merced	698
+Merced	Pino Suárez	745
+Pino Suárez	Isabel la Católica	382
+Isabel la Católica	Salto del Agua	445
+Salto del Agua	Balderas	458
+Balderas	Cuauhtémoc	409
+Cuauhtémoc	Insurgentes	793
+Insurgentes	Sevilla	645
+Sevilla	Chapultepec	501
+Chapultepec	Juanacatlán	973
+Juanacatlán	Tacubaya	1,158
+Tacubaya	Observatorio	1,262
+Cuatro Caminos	Panteones	1,639
+Panteones	Tacuba	1,416
+Tacuba	Cuitláhuac	637
+Cuitláhuac	Popotla	620
+Popotla	Colegio Militar	462
+Colegio Militar	Normal	516
+Normal	San Cosme	657
+San Cosme	Revolución	537
+Revolución	Hidalgo	587
+Hidalgo	Bellas Artes	447
+Bellas Artes	Allende	387
+Allende	Zócalo	602
+Zócalo	Pino Suárez	745
+Pino Suárez	San Antonio Abad	817
+San Antonio Abad	Chabacano	642
+Chabacano	Viaducto	774
+Viaducto	Xola	490
+Xola	Villa de Cortés	698
+Villa de Cortés	Nativitas	750
+Nativitas	Portales	924
+Portales	Ermita	748
+Ermita	General Anaya	838
+General Anaya	Tasqueña	1,330
+Indios Verdes	Deportivo 18 de Marzo	1,166
+Deportivo 18 de Marzo	Potrero	966
+Potrero	La Raza	1,106
+La Raza	Tlatelolco	1,445
+Tlatelolco	Guerrero	1,042
+Guerrero	Hidalgo	702
+Hidalgo	Juárez	251
+Juárez	Balderas	659
+Balderas	Niños Héroes	665
+Niños Héroes	Hospital General	559
+Hospital General	Centro Médico	653
+Centro Médico	Etiopía/Plaza de la Transparencia	1,119
+Etiopía/Plaza de la Transparencia	Eugenia	950
+Eugenia	División del Norte	715
+División del Norte	Zapata	794
+Zapata	Coyoacán	1,153
+Coyoacán	Viveros/Derechos Humanos	908
+Viveros/Derechos Humanos	Miguel Ángel de Quevedo	824
+Miguel Ángel de Quevedo	Copilco	1,295
+Copilco	Universidad	1,306
+Santa Anita	Jamaica	758
+Jamaica	Fray Servando	1,033
+Fray Servando	Candelaria	633
+Candelaria	Morelos	1,062
+Morelos	Canal del Norte	910
+Canal del Norte	Consulado	884
+Consulado	Bondojito	645
+Bondojito	Talismán	959
+Talismán	Martín Carrera	1,129
+Politécnico	Instituto del Petróleo	1,188
+Instituto del Petróleo	Autobuses del Norte	1,067
+Autobuses del Norte	La Raza	975
+La Raza	Misterios	892
+Misterios	Valle Gómez	969
+Valle Gómez	Consulado	679
+Consulado	Eduardo Molina	815
+Eduardo Molina	Aragón	860
+Aragón	Oceanía	1,219
+Oceanía	Terminal Aérea	1,174
+Terminal Aérea	Hangares	1,153
+Hangares	Pantitlán	1,644
+El Rosario	Tezozómoc	1,257
+Tezozómoc	Azcapotzalco	973
+Azcapotzalco	Ferrería	1,173
+Ferrería	Norte 45	1,072
+Norte 45	Vallejo	660
+Vallejo	Instituto del Petróleo	755
+Instituto del Petróleo	Lindavista	1,258
+Lindavista	Deportivo 18 de Marzo	1,075
+Deportivo 18 de Marzo	La Villa – Basílica	570
+La Villa – Basílica	Martín Carrera	1,141
+El Rosario	Aquíles Serdán	1,615
+Aquíles Serdán	Camarones	1,402
+Camarones	Refinería	952
+Refinería	Tacuba	1,295
+Tacuba	San Joaquín	1,433
+San Joaquín	Polanco	1,163
+Polanco	Auditorio	812
+Auditorio	Constituyentes	1,430
+Constituyentes	Tacubaya	1,005
+Tacubaya	San Pedro de los Pinos	1,084
+San Pedro de los Pinos	San Antonio	606
+San Antonio	Mixcoac	788
+Mixcoac	Barranca del Muerto	1,476
+Garibaldi	Bellas Artes	634
+Bellas Artes	San Juan de Letrán	456
+San Juan de Letrán	Salto del Agua	292
+Salto del Agua	Doctores	564
+Doctores	Obrera	761
+Obrera	Chabacano	1,143
+Chabacano	La Viga	843
+La Viga	Santa Anita	633
+Santa Anita	Coyuya	968
+Coyuya	Iztacalco	993
+Iztacalco	Apatlaco	910
+Apatlaco	Aculco	534
+Aculco	Escuadrón 201	789
+Escuadrón 201	Atlalilco	1,738
+Atlalilco	Iztapalapa	732
+Iztapalapa	Cerro de la Estrella	717
+Cerro de la Estrella	UAM I	1,135
+UAM I	Constitución de 1917	1,137
+Pantitlán	Puebla	1,380
+Puebla	Ciudad Deportiva	800
+Ciudad Deportiva	Velódromo	1,110
+Velódromo	Mixiuhca	821
+Mixiuhca	Jamaica	942
+Jamaica	Chabacano	1,031
+Chabacano	Lázaro Cardenas	1,000
+Lázaro Cardenas	Centro Médico	1,059
+Centro Médico	Chilpancingo	1,152
+Chilpancingo	Patriotismo	955
+Patriotismo	Tacubaya	1,133
+Pantitlán	Agrícola Oriental	1,409
+Agrícola Oriental	Canal de San Juan	1,093
+Canal de San Juan	Tepalcates	1,456
+Tepalcates	Guelatao	1,161
+Guelatao	Peñón Viejo	2,206
+Peñón Viejo	Acatitla	1,379
+Acatitla	Santa Marta	1,100
+Santa Marta	Los Reyes	1,783
+Los Reyes	La Paz	1,956
+Ciudad Azteca	Plaza Aragón	574
+Plaza Aragón	Olímpica	709
+Olímpica	Ecatepec	596
+Ecatepec	Múzquiz	1,485
+Múzquiz	Río de los Remedios	1,155
+Río de los Remedios	Impulsora	436
+Impulsora	Nezahualcóyotl	1,393
+Nezahualcóyotl	Villa de Aragón	1,335
+Villa de Aragón	Bosques de Aragón	784
+Bosques de Aragón	Deportivo Oceanía	1,165
+Deportivo Oceanía	Oceanía	863
+Oceanía	Romero Rubio	809
+Romero Rubio	Ricardo Flores Magón	908
+Ricardo Flores Magón	San Lázaro	907
+San Lázaro	Morelos	1,296
+Morelos	Tepito	498
+Tepito	Lagunilla	611
+Lagunilla	Garibaldi	474
+Garibaldi	Guerrero	757
+Guerrero	Buenavista	521
+Tláhuac	Tlaltenco	1,298
+Tlaltenco	Zapotitlán	1,115
+Zapotitlán	Nopalera	1,276
+Nopalera	Olivos	1,360
+Olivos	Tezonco	490
+Tezonco	Periférico Oriente	1,545
+Periférico Oriente	Calle 11	1,111
+Calle 11	Lomas Estrella	906
+Lomas Estrella	San Andrés Tomatlán	1,060
+San Andrés Tomatlán	Culhuacán	990
+Culhuacán	Atlalilco	1,671
+Atlalilco	Mexicaltzingo	1,922
+Mexicaltzingo	Ermita	1,805
+Ermita	Eje Central	895
+Eje Central	Parque de los Venados	1,280
+Parque de los Venados	Zapata	563
+Zapata	Hospital 20 de Noviembre	450
+Hospital 20 de Noviembre	Insurgentes Sur	725
+Insurgentes Sur	Mixcoac	651

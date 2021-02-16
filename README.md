@@ -1,5 +1,7 @@
 # Códigos de mi Canal
 
+Bienvenidos todos al repositorio donde subo los códigos que usamos en mi [Canal de YouTube](https://www.youtube.com/channel/UCysMbdMKB0HWV2eXwX1keAQ/videos).
+
 A continuación hago una lista de los códigos y sus videos correspondientes:
 
 * Análisis de Datos con Matplotlib y Pandas [Código](https://github.com/VikSanz/videos-canal/blob/master/video_mat_pandas.py) y [Video](https://www.youtube.com/watch?v=eoL70stOC0w&t=130s)

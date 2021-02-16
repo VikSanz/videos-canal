@@ -1,4 +1,4 @@
-# Códigos de mi Canal
+# Códigos de los videos
 
 Bienvenidos todos al repositorio donde subo los códigos que usamos en mi [Canal de YouTube](https://www.youtube.com/channel/UCysMbdMKB0HWV2eXwX1keAQ/videos).
 
@@ -11,3 +11,5 @@ A continuación hago una lista de los códigos y sus videos correspondientes:
 * Regresión lineal con Mínimos Cuadrados [Código](https://github.com/VikSanz/videos-canal/blob/master/minimos_cuadrados.ipynb) y [Video](https://www.youtube.com/watch?v=XyI14wPTB0M&t=141s)
 
 Como siempre, quedo atento a sus dudas, quejas y sugerencias. Muchas gracias por ver mis videos. :smile:
+
+**Victor Sanz**
